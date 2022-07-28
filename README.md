@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [View solution URL here](https://github.com/preciousvictory/Huddle-landing-page-with-single-introductory-section-)
-- Live Site URL: [View live site URL here](https://your-live-site-url.com)
+- Live Site URL: [View live site URL here](https://preciousvictory.github.io/Huddle-landing-page-with-single-introductory-section-/)
 
 ## My process
 
